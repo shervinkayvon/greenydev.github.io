@@ -1,0 +1,16 @@
+Package: winterboard
+Version: 0.9.3919-2
+Architecture: iphoneos-arm
+Maintainer: GreenyDev <greenydev@greenmail.net.au>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: .///winterboard_0.9.3919-2_iphoneos-arm.deb
+Size: 2366
+MD5sum: 74677b24995ad677231c08c263a60215
+SHA1: 5cb44cfb5afd4b5c72360684d784b56457dd7ff8
+SHA256: d042b65010a5cd422abfe7238d7050ffb11f1aa2397cdfea2a4e36655e0c0731
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GreenyDev <greenydev@greenmail.net.au>
+Name: fakr
+
