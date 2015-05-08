@@ -1,6 +1,2 @@
 #!/bin/bash
-dpkg-scanpackages ./ /dev/null |gzip > Packages.gz;
-
-dpkg-scanpackages ./ /dev/null | bzip2 > Packages.bz2;
-
-dpkg-scanpackages ./ /dev/null > Packages;
+dpkg-scanpackages . /dev/null > Packages && bzip2 < Packages > Packages.bz2 && gzip < Packages > Packages.gz
