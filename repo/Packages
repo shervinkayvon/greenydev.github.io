@@ -15,6 +15,23 @@ Author: GreenyDev <greenydev@greenmail.net.au>
 Depiction: http://greenydev.github.io/repo/abnoads/index.html
 Name: ABNoAds
 
+Package: com.greeny.adiutorlite
+Version: 0.0.1-14
+Architecture: iphoneos-arm
+Maintainer: GreenyDev <greenydev@greenmail.net.au>
+Installed-Size: 472
+Depends: mobilesubstrate, firmware (>=8.0)
+Conflicts: com.greeny.adiutor, org.thebigboss.adiutor
+Filename: .//debs/com.greeny.adiutorlite_0.0.1-14_iphoneos-arm.deb
+Size: 190434
+MD5sum: f1db1569c8867f3cf9a960afd0b8ae0e
+SHA1: 8a7ad8eba20ff35fea38fc62a57a7ac73014e5e4
+SHA256: e55562b097afea791b470494f538c4459ba96e790608ebee9f99e3cfacef0d3a
+Section: Tweaks
+Description: A less intrustive Siri
+Author: GreenyDev <greenydev@greenmail.net.au>
+Name: AdiutorLite
+
 Package: com.greeny.centerstage
 Version: 1.2.2-beta1-14
 Architecture: iphoneos-arm
