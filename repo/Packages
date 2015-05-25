@@ -16,17 +16,17 @@ Depiction: http://greenydev.github.io/repo/abnoads/index.html
 Name: ABNoAds
 
 Package: com.greeny.adiutorlite
-Version: 0.0.1-21
+Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
-Installed-Size: 472
+Installed-Size: 420
 Depends: mobilesubstrate, firmware (>=8.0)
 Conflicts: com.greeny.adiutor, org.thebigboss.adiutor
-Filename: .//debs/com.greeny.adiutorlite_0.0.1-21_iphoneos-arm.deb
-Size: 190250
-MD5sum: 183574e88691b0448aa120f543fb07d1
-SHA1: 5d15fea2f69618b9a204ac373d97bcb395e8ef66
-SHA256: 581fbc6db2cf7172d5897f6dc4360c2f1b49d55da503aa815ef2a2b99134ede0
+Filename: .//debs/com.greeny.adiutorlite_0.0.1-23+debug_iphoneos-arm.deb
+Size: 96072
+MD5sum: ac72bb1fb6f1e25666b6cdc484d6576d
+SHA1: 22d3135967ac3bf9a0396bf5c8143f561629db4b
+SHA256: aefe6930c79c3862cb5fd74d2910a24af45d6d38a8452c27ea16b5c9f64f8c02
 Section: Tweaks
 Description: A less intrustive Siri
 Author: GreenyDev <greenydev@greenmail.net.au>
@@ -171,16 +171,16 @@ Depiction: http://greenydev.github.io/repo/yesmotion/index.html
 Name: YesMotion
 
 Package: org.thebigboss.adiutor
-Version: 1.1-81+debug
+Version: 1.1-93+debug
 Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 656
 Depends: mobilesubstrate, firmware (>=7.0)
-Filename: .//debs/org.thebigboss.adiutor_1.1-81+debug_iphoneos-arm.deb
-Size: 260556
-MD5sum: fe794b15fb62fdd486252d3ae3979582
-SHA1: de93b2b0c634c6c3781b34a876eb7a36d65498ec
-SHA256: 70de7bdec91f52b12d9a271850ed14380e078178d172d48ca85c7906daa324de
+Filename: .//debs/org.thebigboss.adiutor_1.1-93+debug_iphoneos-arm.deb
+Size: 260880
+MD5sum: ace53629a37b4ab4de93a519359b3ad6
+SHA1: fa1e6430b60f5338201ec8de70a3f8707c0b4b68
+SHA256: e0eb2e9cc5bb6ae1d0686870559b0ff05b1417814a541ce9a1c0e3240d35d54d
 Section: Tweaks
 Description: A much less intrusive Siri
 Tag: cydia::commercial
