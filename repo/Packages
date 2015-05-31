@@ -171,16 +171,16 @@ Depiction: http://greenydev.github.io/repo/yesmotion/index.html
 Name: YesMotion
 
 Package: org.thebigboss.adiutor
-Version: 1.1-93+debug
+Version: 1.1-183+debug
 Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
-Installed-Size: 656
+Installed-Size: 988
 Depends: mobilesubstrate, firmware (>=7.0)
-Filename: .//debs/org.thebigboss.adiutor_1.1-93+debug_iphoneos-arm.deb
-Size: 260880
-MD5sum: ace53629a37b4ab4de93a519359b3ad6
-SHA1: fa1e6430b60f5338201ec8de70a3f8707c0b4b68
-SHA256: e0eb2e9cc5bb6ae1d0686870559b0ff05b1417814a541ce9a1c0e3240d35d54d
+Filename: .//debs/org.thebigboss.adiutor_1.1-183+debug_iphoneos-arm.deb
+Size: 568030
+MD5sum: af05192a226427849ae8e829edbf4ce3
+SHA1: 6166648f9840c9e07f85c8c106b19a470857a43f
+SHA256: 8674865304ba1218e0ed389badab20ddee799f8c40934cfa226482f5e96395b6
 Section: Tweaks
 Description: A much less intrusive Siri
 Tag: cydia::commercial
