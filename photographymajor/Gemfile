@@ -1,0 +1,2 @@
+source 'http://greenydev.github.io/photographymajor'
+gem 'github-pages'
