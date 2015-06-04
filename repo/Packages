@@ -51,19 +51,20 @@ Depiction: http://greenydev.github.io/repo/centerstage/index.html
 Name: CenterStage
 
 Package: com.greeny.hookslawios8
-Version: 0.0.1-4+debug
+Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .//debs/com.greeny.hookslawios8_0.0.1-4+debug_iphoneos-arm.deb
-Size: 5450
-MD5sum: 6bf3c7aeb3b41ac377ab6fb60c4666a4
-SHA1: 93cb8af963608e3e59a13465e1e58b6ac3e2d006
-SHA256: 8cce5bff143f0d6dbef34b0caafa7d4c6a4de0d83b007851fa23887bb39bc421
+Filename: .//debs/com.greeny.hookslawios8_0.0.1-5+debug_iphoneos-arm.deb
+Size: 5488
+MD5sum: 7196f8fc805126ec1be291f2e8e9049a
+SHA1: 5c6963acc361ebeea5f972cb0e3bd4739db758ae
+SHA256: 9d8cf9077f49ac2bb1d80901f207aeab942b3d36ef1e875b06174c9994c17894
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: GreenyDev <greenydev@greenmail.net.au>
+Depiction: http://greenydev.github.io/repo/hookslaw/index.html
 Name: %hook's law (iOS 8)
 
 Package: com.greeny.noappclose
