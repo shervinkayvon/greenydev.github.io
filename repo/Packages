@@ -153,16 +153,16 @@ Author: GreenyDev
 Name: SystemWidePredictiveText
 
 Package: com.greeny.voipremover
-Version: 0.0.1-27
+Version: 0.0.1-34+debug
 Architecture: iphoneos-arm
 Maintainer: GreenyDev
-Installed-Size: 160
+Installed-Size: 196
 Depends: mobilesubstrate
-Filename: .//debs/com.greeny.voipremover_0.0.1-27_iphoneos-arm.deb
-Size: 15986
-MD5sum: dec7b008928d430555e21cd1a7580876
-SHA1: 3328e4fa06a233231e4a2464395d1ef80ec2c155
-SHA256: d3c2262e4d7e775911a922bbdd9d7167580bf0b4178da301a116cd68828e33ef
+Filename: .//debs/com.greeny.voipremover_0.0.1-34+debug_iphoneos-arm.deb
+Size: 191000
+MD5sum: 2a16f18c4c8b7e6982cf76d021412cce
+SHA1: e79bf77b17d88396da4fb56c7d26ec546f97c8d6
+SHA256: b8f77d871c2a01cbaea1f3528b93ea86d5940758207185e2d85f6d31706e025b
 Section: Tweaks
 Description: Stop apps from abusing VoIP!
 Author: GreenyDev
