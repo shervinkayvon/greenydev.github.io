@@ -187,6 +187,22 @@ Author: GreenyDev <greenydev@greenmail.net.au>
 Depiction: http://greenydev.github.io/repo/yesmotion/index.html
 Name: YesMotion
 
+Package: com.strayadevteam.forcy
+Version: 1.0.2-93+debug
+Architecture: iphoneos-arm
+Maintainer: Straya Dev Team
+Installed-Size: 1212
+Depends: mobilesubstrate, firmware(>=9.0)
+Filename: .//debs/com.strayadevteam.forcy_1.0.2-93+debug_iphoneos-arm.deb
+Size: 949068
+MD5sum: 63b6a4800c22059299ae4b5e85857082
+SHA1: 96cfa5580b7dee6b2e25884c3f3af10ce62e3c3c
+SHA256: 1a792d59ca574678b2e88701a69a3fb7ee1289346e09370d6a77593faa930e5a
+Section: Tweaks
+Description: Quick Actions on older devices.
+Author: Straya Dev Team
+Name: Forcy
+
 Package: org.thebigboss.adiutor
 Version: 1.2-14+debug
 Architecture: iphoneos-arm
