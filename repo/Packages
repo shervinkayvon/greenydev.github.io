@@ -205,16 +205,16 @@ Depiction: http://greenydev.github.io/repo/forcy/Index.html
 Name: Forcy
 
 Package: org.thebigboss.adiutor
-Version: 1.2-14+debug
+Version: 1.2-19+debug
 Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 984
-Depends: mobilesubstrate, firmware (>=8.0), firmware(<=9.0)
-Filename: .//debs/org.thebigboss.adiutor_1.2-14+debug_iphoneos-arm.deb
-Size: 982094
-MD5sum: 7e424b649a560529a2039e997ad38aa1
-SHA1: 5426249aeeb714fd0533872f0daba4cb8a6642b7
-SHA256: 87455925207f40ba0443de6e634fda4d06a153c7285a5aab8c681aaa2109ea58
+Depends: mobilesubstrate, firmware (>=8.0)
+Filename: .//debs/org.thebigboss.adiutor_1.2-19+debug_iphoneos-arm.deb
+Size: 567728
+MD5sum: 8f6ec9d0a8685887b75b5374bde8329b
+SHA1: 4098c304bdc2851ab33ee1cfb5b5fc5059549d54
+SHA256: 2a72dde400b6f622db5a913345bbcbbe4f03a74f0f1c61803dc8a27993c6b8f9
 Section: Tweaks
 Description: A much less intrusive Siri
 Tag: cydia::commercial
