@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .//debs/com.greeny.abnoads_0.0.1-4_iphoneos-arm.deb
+Filename: ./debs/com.greeny.abnoads_0.0.1-4_iphoneos-arm.deb
 Size: 3594
 MD5sum: 61318ce87ffc007e35ec77b9354e03c7
 SHA1: 012f1ffe0c9e6a23b70d92d69223ad8b127d7247
@@ -22,7 +22,7 @@ Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 420
 Depends: mobilesubstrate, firmware (>=8.0)
 Conflicts: com.greeny.adiutor, org.thebigboss.adiutor
-Filename: .//debs/com.greeny.adiutorlite_0.0.1-23+debug_iphoneos-arm.deb
+Filename: ./debs/com.greeny.adiutorlite_0.0.1-23+debug_iphoneos-arm.deb
 Size: 96072
 MD5sum: ac72bb1fb6f1e25666b6cdc484d6576d
 SHA1: 22d3135967ac3bf9a0396bf5c8143f561629db4b
@@ -39,7 +39,7 @@ Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 188
 Depends: mobilesubstrate, firmware (>=7.0)
-Filename: .//debs/com.greeny.centerstage_1.2.2-beta1-14_iphoneos-arm.deb
+Filename: ./debs/com.greeny.centerstage_1.2.2-beta1-14_iphoneos-arm.deb
 Size: 25820
 MD5sum: 6938c7854b1380a0fbc2c2a8d7cd9f5f
 SHA1: ae5ead4818b27c8769715a4ab834c0f44192d44c
@@ -56,7 +56,7 @@ Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .//debs/com.greeny.hookslawios8_0.0.1-5+debug_iphoneos-arm.deb
+Filename: ./debs/com.greeny.hookslawios8_0.0.1-5+debug_iphoneos-arm.deb
 Size: 5488
 MD5sum: 7196f8fc805126ec1be291f2e8e9049a
 SHA1: 5c6963acc361ebeea5f972cb0e3bd4739db758ae
@@ -67,13 +67,29 @@ Author: GreenyDev <greenydev@greenmail.net.au>
 Depiction: http://greenydev.github.io/repo/hookslaw/index.html
 Name: %hook's law (iOS 8)
 
+Package: com.greeny.meme
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./debs/com.greeny.meme_0.0.1-2+debug_iphoneos-arm.deb
+Size: 8018
+MD5sum: 80c0529ddba70b92eacf37e351451016
+SHA1: 993d1a910389f8076b4e5b11b00b1b6dcab39764
+SHA256: c35dfe4f749e66bc5a8f5830fcbb0867090c3edc8e5fd5b2d95a223c9a1cfa2f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GreenyDev
+Name: meme
+
 Package: com.greeny.noappclose
 Version: 0.0.1-13
 Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>=7.0)
-Filename: .//debs/com.greeny.noappclose_0.0.1-13_iphoneos-arm.deb
+Filename: ./debs/com.greeny.noappclose_0.0.1-13_iphoneos-arm.deb
 Size: 4678
 MD5sum: cabe5f62db7aaa080b3a2edf58cceb2e
 SHA1: ec05663666e3e6cb013bbde0c129a7aa0ee46a28
@@ -90,7 +106,7 @@ Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>=7.0)
-Filename: .//debs/com.greeny.nomotion_1.1beta--73_iphoneos-arm.deb
+Filename: ./debs/com.greeny.nomotion_1.1beta--73_iphoneos-arm.deb
 Size: 4098
 MD5sum: 97dda9cb3996b445ed5b731477c5b0c2
 SHA1: f117e2f31fa2a18f11efb7e578e508cf9c18debb
@@ -107,7 +123,7 @@ Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .//debs/com.greeny.nosiri_0.0.1-7_iphoneos-arm.deb
+Filename: ./debs/com.greeny.nosiri_0.0.1-7_iphoneos-arm.deb
 Size: 4592
 MD5sum: 230181006b653eb6b7f305258559870e
 SHA1: 7505fa51b9d75c80785eaf0a71e9a98b3bc1b9bb
@@ -124,7 +140,7 @@ Maintainer: GreenyDev
 Installed-Size: 448
 Depends: mobilesubstrate
 Conflicts: com.greeny.autostatisticsreset
-Filename: .//debs/com.greeny.restats_1.1-25_iphoneos-arm.deb
+Filename: ./debs/com.greeny.restats_1.1-25_iphoneos-arm.deb
 Size: 177992
 MD5sum: a4955cf7b62c8eb09a1fea8aaeb9caf8
 SHA1: 4f5242ae35fec4d26983d3955ad708580134e9fb
@@ -142,7 +158,7 @@ Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .//debs/com.greeny.systemwidepredictivetext_0.0.1-11_iphoneos-arm.deb
+Filename: ./debs/com.greeny.systemwidepredictivetext_0.0.1-11_iphoneos-arm.deb
 Size: 4304
 MD5sum: 446b43021cf23f6417ea637a54b5d16c
 SHA1: 49b8976a9f1b0e59160cac8c95afe0d23fa2a335
@@ -158,7 +174,7 @@ Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 196
 Depends: mobilesubstrate
-Filename: .//debs/com.greeny.voipremover_0.0.1-34+debug_iphoneos-arm.deb
+Filename: ./debs/com.greeny.voipremover_0.0.1-34+debug_iphoneos-arm.deb
 Size: 191000
 MD5sum: 2a16f18c4c8b7e6982cf76d021412cce
 SHA1: e79bf77b17d88396da4fb56c7d26ec546f97c8d6
@@ -176,7 +192,7 @@ Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>=7.0)
 Conflicts: com.greeny.nomotion
-Filename: .//debs/com.greeny.yesmotion_0.0.1-8_iphoneos-arm.deb
+Filename: ./debs/com.greeny.yesmotion_0.0.1-8_iphoneos-arm.deb
 Size: 4042
 MD5sum: 5bd0f2160a43527bb12f11916112849c
 SHA1: 769058e56164b1f47b8f462dde00df1e0875b2c5
@@ -193,7 +209,7 @@ Architecture: iphoneos-arm
 Maintainer: Straya Dev Team
 Installed-Size: 1688
 Depends: mobilesubstrate, firmware(>=9.0)
-Filename: .//debs/com.strayadevteam.forcy_1.0.3-177+debug_iphoneos-arm.deb
+Filename: ./debs/com.strayadevteam.forcy_1.0.3-177+debug_iphoneos-arm.deb
 Size: 1348846
 MD5sum: 1e869d257030b0a44f005fbeabb58e7a
 SHA1: 50260b5c8ae1ce7d104d715184b40ca7452918ab
@@ -210,7 +226,7 @@ Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 984
 Depends: mobilesubstrate, firmware (>=8.0)
-Filename: .//debs/org.thebigboss.adiutor_1.2-19+debug_iphoneos-arm.deb
+Filename: ./debs/org.thebigboss.adiutor_1.2-19+debug_iphoneos-arm.deb
 Size: 567728
 MD5sum: 8f6ec9d0a8685887b75b5374bde8329b
 SHA1: 4098c304bdc2851ab33ee1cfb5b5fc5059549d54
